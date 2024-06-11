@@ -1,0 +1,54 @@
+body {
+    background-image: url('../../img/nicolette-meade-RL3F99l0XYE-unsplash.jpg');
+}
+.container {
+    background-color: grey;
+    border-radius: 7%;
+    width: 40rem;
+    height: auto;
+    position: center;
+    margin-top: 10rem;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card-title{
+    padding: 1rem;
+} 
+.card-text{
+    padding: 1rem;
+}
+
+.flexbox{
+    padding: 0.5rem;
+}
+
+.btn {
+    border: 0;
+}
+
+.weather {
+    position: absolute;
+    align-items: center;
+    width: auto;
+    height: auto;
+    color: blue; 
+    padding: 5px;
+    justify-content: space-around;
+    font-size: 1rem;
+    
+}
+
+#icon {
+    max-width: 200%;
+    height: 200%;
+}
+
+#temperature {
+    padding-left: 10px;
+}
+
